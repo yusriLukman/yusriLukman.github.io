@@ -8,7 +8,7 @@ Welcome to my portfolio! I am an aspiring Data Analyst passionate about turning 
 ## 🛠️ Tech Stack & Skills
 
 * **Data Analysis & Processing:** Python (Pandas, NumPy), Advanced Excel, SQL (MySQL)
-* **Data Visualization & Dashboards:** Power BI / Tableau / Matplotlib
+* **Data Visualization & Dashboards:** PTableau / Matplotlib
 * **Development & Scripting:** Python (GUI Development, Scripting)
 * **Core Competencies:** Data Cleaning, Exploratory Data Analysis (EDA), Storytelling, Business Intelligence
 
@@ -27,6 +27,6 @@ Welcome to my portfolio! I am an aspiring Data Analyst passionate about turning 
 
 ## 📬 Connect with Me
 
-* **LinkedIn:** [linkedin.com/in/username-kamu](https://linkedin.com/in/username-kamu)
-* **Email:** emailkamu@example.com
+* **LinkedIn:** [www.linkedin.com/in/yusril-lukman](www.linkedin.com/in/yusril-lukman)
+* **Email:** yusrilridho25@gmail.com
 * **GitHub:** [github.com/yusriLukman](https://github.com/yusriLukman)
