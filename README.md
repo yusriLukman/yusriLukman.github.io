@@ -8,7 +8,7 @@ Welcome to my portfolio! I am an aspiring Data Analyst passionate about turning 
 ## 🛠️ Tech Stack & Skills
 
 * **Data Analysis & Processing:** Python (Pandas, NumPy), Advanced Excel, SQL (MySQL)
-* **Data Visualization & Dashboards:** PTableau / Matplotlib
+* **Data Visualization & Dashboards:** Tableau / Matplotlib / Data Studio
 * **Development & Scripting:** Python (GUI Development, Scripting)
 * **Core Competencies:** Data Cleaning, Exploratory Data Analysis (EDA), Storytelling, Business Intelligence
 
