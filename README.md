@@ -18,7 +18,7 @@ Welcome to my portfolio! I am a Data Analyst passionate about turning raw data i
 
 | Project Name | Description | Tech Stack | Links |
 | :--- | :--- | :--- | :--- |
-| **Pizza Sales Analysis & Dashboard** | End-to-end sales performance analysis extracting SQL data and translating key insights into an interactive dashboard. | `SQL` `Python` `Streamlit` `Plotly` | [Repo](https://github.com/yusriLukman/pizza-sales-analysis) • [Live Demo](https://pizza-sales-analysis-ms2myqet6hcdcheogm2gad.streamlit.app/) |
+| **Pizza Sales Analysis & Dashboard** | End-to-end sales performance analysis extracting SQL data and translating key insights into an interactive dashboard. | `SQL` `Python` `Streamlit` `Plotly` | [Repo](https://github.com/yusriLukman/pizza-sales-analysis) • [Live Demo](https://pizza-sales-analysis-yusril.streamlit.app/) |
 | **E-Commerce Customer Analytics & Retention Strategy** | End-to-end customer analytics framework using DuckDB SQL and Python. Features 10-tier RFM customer segmentation, cohort retention analysis, and automated multi-sheet Excel export. | `Python` `DuckDB SQL` `Pandas` `Matplotlib` `OpenPyXL` | [Repo](https://github.com/yusriLukman/ecommerce-customer-analytics-retention) |
 | **E-Commerce Customer Churn Prediction** | End-to-end Machine Learning pipeline utilizing Random Forest, SMOTE class balancing, and Recall optimization to identify retention drivers and generate automated risk-scoring CSV exports. | `Python` `Scikit-Learn` `Imbalanced-Learn` `Pandas` `Seaborn` | [Repo](https://github.com/yusriLukman/customer-churn-prediction) |
 
